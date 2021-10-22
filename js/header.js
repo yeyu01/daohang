@@ -8,7 +8,7 @@ function search() {
         "hotStatus": true,
         "data": [{
             name: "百度",
-            img: "url('./images/search_icon.png') -80px 0px",
+            img: "url('') -80px 0px",
             position: "0px 0px",
             url: "https://www.baidu.com/s?wd="
         }, {
