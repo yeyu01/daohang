@@ -134,14 +134,14 @@ input::-webkit-input-placeholder{
 .search-engine-tool{
   float: right;
   font-size: 12px;
-  color: #999;
+  color: #fff;
 }
 .search-engine-tool > span{
   float: right;
   display: inline-block;
   width: 25px;
   height: 15px;
-  background: url('./images/off_on.png') no-repeat 0px 0px;
+  background: url('../images/off_on.png') no-repeat 0px 0px;
   cursor: pointer
 }
 .search-engine-tool > span.off{ background-position: -30px 0px }
