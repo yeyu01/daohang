@@ -134,7 +134,7 @@ input::-webkit-input-placeholder{
 .search-engine-tool{
   float: right;
   font-size: 12px;
-  color: #fff;
+  color: #999;
 }
 .search-engine-tool > span{
   float: right;
