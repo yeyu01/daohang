@@ -7,10 +7,10 @@ function search() {
         "thisSearchIcon": "url('./images/search_icon.png')",
         "hotStatus": true,
         "data": [{
-            name: "没用这",
+            name: "bd",
             img: "url('./images/search_icon.png') -80px 0px",
             position: "0px 0px",
-            url: "https://aall.top"
+            url: "https://cn.baidu.com/search?q="
         }, {
             name: "谷歌",
             img: "url('./images/search_icon.png')  -105px 0px",
@@ -33,12 +33,12 @@ function search() {
             url: "https://www.sogou.com/web?query="
         }, {
             name: "淘宝",
-            img: "url('/images/search_icon.png') -105px -50px",
+            img: "url('./images/search_icon.png') -105px -50px",
             position: "-40px -80px",
             url: "https://s.taobao.com/search?q="
         }, {
             name: "京东",
-            img: "url('/images/search_icon.png') -80px -75px",
+            img: "url('./images/search_icon.png') -80px -75px",
             position: "0px -120px",
             url: "http://search.jd.com/Search?keyword="
         }, {
@@ -78,7 +78,7 @@ function search() {
             url: "https://so.youku.com/search_video/q_"
         }, {
             name: "GitHub",
-            img: "url('/images/search_icon.png') -80px -175px",
+            img: "url('./images/search_icon.png') -80px -175px",
             position: "0px -280px",
             url: "https://github.com/search?utf8=✓&q="
         }]
