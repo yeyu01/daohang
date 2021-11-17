@@ -7,10 +7,10 @@ function search() {
         "thisSearchIcon": "url('./images/search_icon.png')",
         "hotStatus": true,
         "data": [{
-            name: "bd",
+            name: "度",
             img: "url('./images/search_icon.png') -80px 0px",
             position: "0px 0px",
-            url: "https://cn.baidu.com/search?q="
+            url: "https://baidu.com/"
         }, {
             name: "谷歌",
             img: "url('./images/search_icon.png')  -105px 0px",
@@ -23,12 +23,12 @@ function search() {
             url: "https://cn.bing.com/search?q="
         }, {
             name: "好搜",
-            img: "url('/images/search_icon.png') -105px -25px",
+            img: "url('./images/search_icon.png') -105px -25px",
             position: "-40px -40px",
             url: "https://www.so.com/s?q="
         }, {
             name: "搜狗",
-            img: "url('/images/search_icon.png') -80px -50px",
+            img: "url('./images/search_icon.png') -80px -50px",
             position: "0px -80px",
             url: "https://www.sogou.com/web?query="
         }, {
