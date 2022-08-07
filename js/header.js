@@ -7,10 +7,10 @@ function search() {
         "thisSearchIcon": "url('./images/search_icon.png')",
         "hotStatus": true,
         "data": [{
-            name: "度",
+            name: "百度",
             img: "url('./images/search_icon.png') -80px 0px",
             position: "0px 0px",
-            url: "https://baidu.com/"
+            url: "https://baidu.com/s?wd="
         }, {
             name: "谷歌",
             img: "url('./images/search_icon.png')  -105px 0px",
